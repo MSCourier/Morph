@@ -1,0 +1,74 @@
+{
+  "bewitchment:bafometyr": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment:baphomet": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment:demon": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment:demoness": [
+    "fireImmunity",
+    "hostile",
+    "step"
+  ],
+  "bewitchment:ghost": [
+    "hostile",
+    "fly|true"
+  ],
+  "bewitchment:hellhound": [
+    "hostile",
+    "fireImmunity"
+  ],
+  "bewitchment:imp": [
+    "hostile",
+    "fireImmunity"
+  ],
+  "bewitchment:owl": [
+    "fly|true"
+  ],
+  "bewitchment:raven": [
+    "fly|true"
+  ],
+  "bewitchment:snake": [
+    "hostile",
+    "poisonResistance"
+  ],
+  "bewitchment:werewolf": [
+    "hostile",
+    "sunburn"
+  ],
+  "biomesoplenty:wasp": [
+    "hostile",
+    "fly|true"
+  ],
+  "iceandfire:amphithere": [
+    "fly|true"
+  ],
+  "iceandfire:firedragon": [
+    "fly|true",
+    "hostile",
+    "fireImmunity"
+  ],
+  "iceandfire:icedragon": [
+    "hostile",
+    "fly|true"
+  ],
+  "iceandfire:if_pixie": [
+    "fly|true"
+    ],
+  "iceandfire:seaserpent": [
+    "fly|true",
+    "swim|true"
+  ],
+  "iceandfire:hippogryph": [
+    "fly|true"
+  ]
+}
