@@ -1,74 +1,74 @@
 {
-  "bewitchment:bafometyr": [
+  "bewitchment.entities.EntityBafometyr": [
     "hostile",
     "step",
     "fireImmunity"
   ],
-  "bewitchment:baphomet": [
+  "bewitchment.entities.EntityBaphomet": [
     "hostile",
     "step",
     "fireImmunity"
   ],
-  "bewitchment:demon": [
+  "bewitchment.entities.EntityDemon": [
     "hostile",
     "step",
     "fireImmunity"
   ],
-  "bewitchment:demoness": [
+  "bewitchment.entities.EntityDemoness": [
     "fireImmunity",
     "hostile",
     "step"
   ],
-  "bewitchment:ghost": [
+  "bewitchment.entities.EntityGhost": [
     "hostile",
     "fly|true"
   ],
-  "bewitchment:hellhound": [
-    "hostile",
-    "fireImmunity"
-  ],
-  "bewitchment:imp": [
+  "bewitchment.entities.EntityHellhound": [
     "hostile",
     "fireImmunity"
   ],
-  "bewitchment:owl": [
+  "bewitchment.entities.EntityImp": [
+    "hostile",
+    "fireImmunity"
+  ],
+  "bewitchment.entities.EntityOwl": [
     "fly|true"
   ],
-  "bewitchment:raven": [
+  "bewitchment.entities.EntityRaven": [
     "fly|true"
   ],
-  "bewitchment:snake": [
+  "bewitchment.entities.EntitySnake": [
     "hostile",
     "poisonResistance"
   ],
-  "bewitchment:werewolf": [
+  "bewitchment.entities.EntityWerewolf": [
     "hostile",
     "sunburn"
   ],
-  "biomesoplenty:wasp": [
+  "biomesoplenty.entities.EntityWasp": [
     "hostile",
     "fly|true"
   ],
-  "iceandfire:amphithere": [
+  "iceandfire.entities.EntityAmphithere": [
     "fly|true"
   ],
-  "iceandfire:firedragon": [
+  "iceandfire.entities.EntityFireDragon": [
     "fly|true",
     "hostile",
     "fireImmunity"
   ],
-  "iceandfire:icedragon": [
+  "iceandfire.entities.EntityIceDragon": [
     "hostile",
     "fly|true"
   ],
-  "iceandfire:if_pixie": [
+  "iceandfire.entities.EntityPixie": [
     "fly|true"
     ],
-  "iceandfire:seaserpent": [
+  "iceandfire.entities.EntitySeaSerpent": [
     "fly|true",
     "swim|true"
   ],
-  "iceandfire:hippogryph": [
+  "iceandfire.entities.EntityHippogryph": [
     "fly|true"
   ]
 }
