@@ -1,5 +1,74 @@
 {
-  "bewitchment.entity.ghost": [
+  "bewitchment.common.entity.EntityBafometyr": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment.common.entity.EntityBaphomet": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment.common.entity.EntityDemon": [
+    "hostile",
+    "step",
+    "fireImmunity"
+  ],
+  "bewitchment.common.entity.EntityDemoness": [
+    "fireImmunity",
+    "hostile",
+    "step"
+  ],
+  "bewitchment.common.entity.EntityGhost": [
+    "hostile",
+    "fly|true"
+  ],
+  "bewitchment.common.entity.EntityHellhound": [
+    "hostile",
+    "fireImmunity"
+  ],
+  "bewitchment.common.entity.EntityImp": [
+    "hostile",
+    "fireImmunity"
+  ],
+  "bewitchment.common.entity.EntityOwl": [
+    "fly|true"
+  ],
+  "bewitchment.common.entity.EntityRaven": [
+    "fly|true"
+  ],
+  "bewitchment.common.entity.EntitySnake": [
+    "hostile",
+    "poisonResistance"
+  ],
+  "bewitchment.common.entity.EntityWerewolf": [
+    "hostile",
+    "sunburn"
+  ],
+  "biomesoplenty.common.entity.EntityWasp": [
+    "hostile",
+    "fly|true"
+  ],
+  "iceandfire.entity.EntityAmphithere": [
+    "fly|true"
+  ],
+  "iceandfire.entity.EntityFireDragon": [
+    "fly|true",
+    "hostile",
+    "fireImmunity"
+  ],
+  "iceandfire.entities.EntityIceDragon": [
+    "hostile",
+    "fly|true"
+  ],
+  "iceandfire.entities.EntityPixie": [
+    "fly|true"
+    ],
+  "iceandfire.entities.EntitySeaSerpent": [
+    "fly|true",
+    "swim|true"
+  ],
+  "iceandfire.entities.EntityHippogryph": [
     "fly|true"
   ]
 }
